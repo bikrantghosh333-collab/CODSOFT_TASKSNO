@@ -82,7 +82,4 @@ while choice != '9':
 
 
 
-# Run the game
-play_game()
-
 
